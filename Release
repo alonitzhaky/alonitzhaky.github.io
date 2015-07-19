@@ -1,0 +1,8 @@
+Origin alonitzhaky's Public Repository
+Label: alonitzhaky's Public Repo
+Suite: Stable
+Version: 1.0
+codename: ios
+Architectures: iphoneos-arms
+Components: main
+Description: alonithaky's Public Repo

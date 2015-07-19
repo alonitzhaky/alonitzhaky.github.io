@@ -1,0 +1,8 @@
+Package: com.alonitzhaky.popuponstart
+Name: PopupOnStart
+Version: 0.0.1-1
+Architecture: iphoneos-arms
+Description: 1st tweak I made, not very interesting :)
+Maintainer: alonitzhaky <alon.itzhaky@gmail.com>
+Author: alonitzhaky <alon.itzhaky@gmail.com>
+Section: Tweaks
